@@ -153,7 +153,7 @@ This project is licensed under the GPL License. See the LICENSE file for details
 
 ## Contributing
 
-We welcome contributions to improve this plugin! Please submit a pull request or open an issue on the GitHub repository.
+I welcome contributions to improve this plugin! Please submit a pull request or open an issue on the GitHub repository.
 
 ## Support
 Your issues: https://github.com/markusbegerow/learndash-csv-importer/issues
